@@ -1,7 +1,5 @@
 # Project1-challenge
 
-# Project1_Team2_repo
-
 ## Analyzing the Relationship Between Conflict and Water Scarcity
 
 ## Team Members
